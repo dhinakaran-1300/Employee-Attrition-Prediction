@@ -59,7 +59,7 @@ Employee-Attrition-Prediction/
 ## How to Run the Application
 
 ### 1. Clone the Repository
-git clone https://github.com/<your-username>/Employee-Attrition-Prediction.git
+git clone https://github.com/dhinakaran-1300/Employee-Attrition-Prediction.git
 cd Employee-Attrition-Prediction
 
 ### 2. Install Dependencies
