@@ -63,7 +63,7 @@ git clone https://github.com/dhinakaran-1300/Employee-Attrition-Prediction.git
 cd Employee-Attrition-Prediction
 
 ### 2. Install Dependencies
-pip install -r requirements.txt
+pip install r requirements.txt
 
 ### 3. Run Streamlit App
 streamlit run app.py
