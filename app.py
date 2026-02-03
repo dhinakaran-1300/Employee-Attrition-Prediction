@@ -5,7 +5,7 @@ import pandas as pd
 import pickle
 
 # load trained model
-file_path = r"D:\Guvi\Project\Employee_Attrition\best_model.pkl"
+file_path = "best_model.pkl"
 
 with open(file_path, "rb") as f:
     pickle_model = pickle.load(f)
@@ -125,4 +125,5 @@ st.write(
 st.info(
     "Note: Prediction accuracy for a single employee cannot be computed in real time "
     "because the true attrition outcome is unknown."
+
 )
